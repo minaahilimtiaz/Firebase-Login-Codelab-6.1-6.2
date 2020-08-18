@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "123523822857",
+    "firebase_url": "https://vibrant-map-286019.firebaseio.com",
+    "project_id": "vibrant-map-286019",
+    "storage_bucket": "vibrant-map-286019.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123523822857:android:61036b0fb10a66083f0fd8",
+        "android_client_info": {
+          "package_name": "com.example.android.firebaseui_login_sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123523822857-bl8tpp96efeiilhar2qo6i8juhen5krc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.firebaseui_login_sample",
+            "certificate_hash": "618de92ef7a5dee30a3bd9e09b2a5e7b866baffb"
+          }
+        },
+        {
+          "client_id": "123523822857-sonfco34bso8m0qmb1oqqfufjiqhngdo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1bYk9Wk73gGPLMedpcxBVfaCu6PyeLOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123523822857-sonfco34bso8m0qmb1oqqfufjiqhngdo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
